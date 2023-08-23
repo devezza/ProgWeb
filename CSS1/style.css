@@ -1,0 +1,7 @@
+p {
+    background: #a6a6a6;
+    border: 5px solid black;
+    border-bottom-left-radius: 16px;
+    border-top-right-radius: 16px;
+    padding-left: 20px;
+}
