@@ -1,10 +1,18 @@
 body {
     background-color: cadetblue;
+    background-image: url(roma.jpeg);
+    background-repeat: no-repeat;
+    background-position: center 10px;
 }
-.roma{
-    text-align: center;
-}
-.texto{
+
+.texto {
+    background-color: rgba(255, 255, 255, .8);
     border: medium solid saddlebrown;
-    
+    border-bottom-left-radius: 16px;
+    border-bottom-right-radius: 16px;
+    border-top-right-radius: 16px;
+    border-top-left-radius: 16px;
+    padding-left: 20px;
+    margin: 100px 420px;
+    width: 15%;
 }
