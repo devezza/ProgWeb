@@ -1,0 +1,5 @@
+A diferenã entre == e === é que o primeiro compara apenas o valor da variável, já o segundo compara tanto o valor como o tipo;
+Quando precisamos fazer uma comparação para saber se o valor é estritamente igual a outro, devemos usar o ===, para que erros como o exemplo abaixo não ocorra
+
+'1' == 1 -> True
+'1' === 1 -> False
