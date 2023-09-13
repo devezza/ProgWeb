@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+}
+.box_blue{
+    background-color: blue;
+    width: 200px;
+    height: 200px;
+    margin: 10px;
+}
+
+.box_red{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 60px;
+}
