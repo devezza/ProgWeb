@@ -7,6 +7,6 @@ app.get("/", (req,res)=>{
 });
 
 app.listen(PORT, ()=>{
-    console.log(`Express app iniciada na porta ${PORT}`);
+    console.log(`Express app iniciada na porta ${PORT}.`);
 });
 
